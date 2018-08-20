@@ -3,6 +3,6 @@ def looping
 end
 
 #call your method here
-loop doo
+loop do
   looping
 end 
